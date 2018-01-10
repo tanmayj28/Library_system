@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  address: MyString
+  phone: 
+  gender: 1
+  code: 
+  validity_date: 2018-01-10
+  is_author: false
+  library_id: 
+
+two:
+  name: MyString
+  address: MyString
+  phone: 
+  gender: 1
+  code: 
+  validity_date: 2018-01-10
+  is_author: false
+  library_id: 

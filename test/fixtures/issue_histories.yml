@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  member_id: 
+  book_id: 
+  date_of_issue: 2018-01-10
+  date_of_return: 2018-01-10
+  copies: 
+  member_id: 
+
+two:
+  member_id: 
+  book_id: 
+  date_of_issue: 2018-01-10
+  date_of_return: 2018-01-10
+  copies: 
+  member_id: 

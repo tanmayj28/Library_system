@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  isbn: MyString
+  author: MyString
+  price: 9.99
+  publication: MyString
+  version: MyString
+  library_id: 
+  category_id: 
+  library_id: 
+  Category_id: 
+  issue_history_id: 
+
+two:
+  name: MyString
+  isbn: MyString
+  author: MyString
+  price: 9.99
+  publication: MyString
+  version: MyString
+  library_id: 
+  category_id: 
+  library_id: 
+  Category_id: 
+  issue_history_id: 
